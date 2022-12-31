@@ -1,6 +1,11 @@
 import { Box, Button, Container, Paper } from "@mui/material"
 import Typography from "@mui/material/Typography"
 import { useState } from "react";
+import "../public/assets/dice1.png"
+import "../public/assets/dice2.png"
+import "../public/assets/dice3.png"
+import "../public/assets/dice4.png"
+import "../public/assets/dice5.png"
 import "../public/assets/dice6.png"
 
 function App() {
